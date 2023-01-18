@@ -47,7 +47,9 @@ if (208 > 208){
         else 
             console.log('The numbers are the same!');
 
-        
+///////////////////////////////////////////////        
 
-    
+let favNumber = [4,6,24,7,8,13];
 
+console.log('Add first and last together', favNumber[0 + 5]);
+// cannot get it to log 17 it keeps logging 13
