@@ -53,3 +53,9 @@ let favNumber = [4,6,24,7,8,13];
 
 console.log('Add first and last together', favNumber[0 + 5]);
 // cannot get it to log 17 it keeps logging 13
+
+let pilesofBricks = [15,7,21,41,10,56,1];
+console.log('Add 1st and last number together' , pilesofBricks[0]+[pilesofBricks.length-1]);
+
+
+
